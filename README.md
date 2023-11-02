@@ -1,2 +1,3 @@
 # class-project
- mental health and welness
+ a mental health and wellness website
+ 
